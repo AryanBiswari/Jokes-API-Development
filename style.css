@@ -24,7 +24,7 @@ body{
 span{
     display: block;
     text-align: center;
-    font-size: 100px;
+    font-size: 70px;
 }
 p{
     color:white;
@@ -32,6 +32,7 @@ p{
     word-wrap: break-word;
     text-align: center;
     margin: 30px 0;
+    font-size:30px;
 }
 
 button{
@@ -41,7 +42,7 @@ button{
     background-color: darkorange;
     border-radius: 10px;
     padding: 5px;
-    font-size: 18px;
+    font-size: 25px;
     margin: 0 auto;
     cursor: pointer;
 }
